@@ -3,3 +3,6 @@ The Librora Project is a web-based book management system that lets users add, v
 
 *OUTPUT*
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b05f0752-3a59-4d37-91f6-151e4b68da29" />
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d769f079-e994-4bf2-97ef-436a172111e2" />
